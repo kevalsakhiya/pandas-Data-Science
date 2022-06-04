@@ -1,3 +1,3 @@
 # pandas-Data-Science
 
-# This is just sample project in which I try and answer some common questation from dataset of sale.
+# This is just simple projects in which I try and analyse data and answer some common questation from it.
